@@ -1,9 +1,11 @@
 # InstaLiker
-A simple instagram liker bot. For now the only one function that InstaLiker offer is to like posts on the explore section.
+A simple instagram liker bot. For now the only one function that InstaLiker offer is to like posts on the explore section. This plugin has been made because I discover that instagram reward a lot the "active users", it means that if you put a lot of likes you will grow faster. 
 
 The bot offer also a ban protection, for avoid been banned or shadowbanned from IG
 
-<i>For the selenium hider plugin I have to thanks InstaPy.</i>
+<b>Important:</b> Don't set more than 600/700 likes per day, consider that in theory Instagram allows about from 700 to 1000 likes per day.
+
+<i>For the selenium hider plugin I have to thanks InstaPy project.</i>
 
 # Install steps 
 <ol>
